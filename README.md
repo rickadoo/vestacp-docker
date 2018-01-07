@@ -1,19 +1,10 @@
 # README
 
-Docker container to launch
+Docker container to launch a CentOS Container and setup+install VestaCP Control Panel
 
+VestaCP https://vestacp.com
 
- _|      _|  _|_|_|_|    _|_|_|  _|_|_|_|_|    _|_|
- _|      _|  _|        _|            _|      _|    _|
- _|      _|  _|_|_|      _|_|        _|      _|_|_|_|
-   _|  _|    _|              _|      _|      _|    _|
-     _|      _|_|_|_|  _|_|_|        _|      _|    _|
-
-                                  Vesta Control Panel
-
-
-
-Following software will be installed on your system:
+Following software will be installed:
    - Nginx Web Server
    - Apache Web Server (as backend)
    - Bind DNS Server
